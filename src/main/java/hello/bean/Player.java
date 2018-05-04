@@ -1,4 +1,4 @@
-package reader.bean;
+package hello.bean;
 
 import java.io.Serializable;
 

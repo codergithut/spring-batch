@@ -2,7 +2,7 @@ package reader.mapper;
 
 import org.springframework.batch.item.file.mapping.FieldSetMapper;
 import org.springframework.batch.item.file.transform.FieldSet;
-import reader.bean.Player;
+import hello.bean.Player;
 
 public class PlayerFieldSetMapper implements FieldSetMapper<Player> {
     public Player mapFieldSet(FieldSet fs) {
